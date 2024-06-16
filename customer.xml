@@ -1,0 +1,24 @@
+<!-- Write a program for implementing XML document for CUSTOMER DETAILS. -->
+
+<customers-data>
+    <customer>
+        <id>1</id>
+        <first-name>Ankita</first-name>
+        <last-name>Katuwal</last-name>
+        <contact>980000000</contact>
+        <address>
+            <email>ankitakatuwal@gmail.com</email>
+            <location>Itahari</location>
+        </address>
+    </customer>
+    <customer>
+        <id>2</id>
+        <first-name>Parbat</first-name>
+        <last-name>Karki</last-name>
+        <contact>9800000303</contact>
+        <address>
+            <email>parbatkarki@gmail.com</email>
+            <location>Inaruwa</location>
+        </address>
+    </customer>
+</customers-data>
